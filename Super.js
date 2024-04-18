@@ -1,0 +1,1 @@
+alert('Bonjour Super JS!')
